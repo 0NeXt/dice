@@ -1,0 +1,40 @@
+# Korean translations for com.github.0next.dice package.
+# Copyright (C) 2022 THE com.github.0next.dice'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.0next.dice package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.0next.dice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-05 23:11-0700\n"
+"PO-Revision-Date: 2022-01-05 23:09-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: data/dice.desktop.in:6 data/dice.metainfo.xml.in:5
+msgid "Dice"
+msgstr ""
+
+#: data/dice.desktop.in:7
+msgid "Dice the number generator"
+msgstr ""
+
+#: data/dice.desktop.in:10
+msgid "com.github.0NeXt.dice"
+msgstr ""
+
+#: data/dice.metainfo.xml.in:6
+msgid "The number generator"
+msgstr ""
+
+#: data/dice.metainfo.xml.in:12
+msgid ""
+"Dice is a program that generates a random number between 1 to 6 or your "
+"chosen number."
+msgstr ""
