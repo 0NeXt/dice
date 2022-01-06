@@ -1,0 +1,22 @@
+app-id: com.github.0next.dice
+
+
+runtime: io.elementary.Platform
+runtime-version: '6.1'
+sdk: io.elementary.Sdk
+
+
+command: com.github.0next.dice
+
+
+finish-args:
+  - '--share=ipc'
+  - '--socket=fallback-x11'
+  - '--socket=wayland'
+
+modules:
+  - name: dice
+    buildsystem: meson
+    sources:
+      - type: dir
+        path: .
