@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.0next.Dice</id>
+
+  <name>Dice</name>
+  <summary>The number generator</summary>
+
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+Dice is a program that generates a random number between 1 to 6 or your chosen number.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.github.0next.Dice.desktop</launchable>
+</component>
+
