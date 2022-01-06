@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Dice
+Comment=Dice the number generator
+Categories=Development;
+
+Icon=com.github.0NeXt.dice
+Exec=com.github.0NeXt.dice
+Terminal=false
