@@ -1,6 +1,6 @@
 /*
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2021 Your Name <ylayne145@outlook.com>
+ * SPDX-FileCopyrightText: 2021 Layne Harling <ylayne145@tuta.io>
  */
 public class Dice : Gtk.Application {
     public Dice () {
